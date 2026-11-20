@@ -23,7 +23,7 @@
 
 BCA graduate (2026) from MG University (Kristu Jyothi College) with hands-on experience building functional web applications using **MERN Stack** and **PHP/MySQL**. 
 
-- 🌐 **Live Portfolio**: **[alfin-sebastian.vercel.app](https://alfin-sebastian.vercel.app)** *(Connected to Firebase Realtime Database)*
+- 🌐 **Live Portfolio**: **[alfin-sebastian.vercel.app](https://alfin-sebastian.vercel.app)**
 - 💡 **Specialization**: Rapid prototyping and AI-assisted full-stack development using **Anthropic's Claude** to ship clean, efficient solutions.
 - 🎓 **Verified Credentials**: Anthropic Claude 101, Anthropic AI Fluency, TATA GenAI Analytics, Deloitte Tech & Cyber, and C2 Proficient English (EF SET).
 - 🌱 **Currently Developing**: Expanding skills in Data Analytics (SQL, Excel, Analytics frameworks) while advancing full-stack web architectures.
@@ -64,25 +64,28 @@ BCA graduate (2026) from MG University (Kristu Jyothi College) with hands-on exp
 ## 📂 Featured Projects
 
 ### 🚗 [SwipeRide — Ride Sharing Web Application](https://github.com/Alfin-Sebastian/swiperide)
+* **Repository**: [`github.com/Alfin-Sebastian/swiperide`](https://github.com/Alfin-Sebastian/swiperide)
 * **Stack**: MongoDB, Express.js, React.js, Node.js (MERN), JavaScript
 * **Overview**: A full-stack ride-booking web application connecting passengers and drivers through a structured 4-stage lifecycle workflow (*Request ➔ Acceptance ➔ Trip In-Progress ➔ Completion*).
 * **Key Feature**: Emergency SOS alert feature with live browser audio recording demonstration for rider safety.
-* **Architecture**: [Experience the Interactive 4-Stage Simulator on my Live Portfolio](https://alfin-sebastian.vercel.app/#deep-dive)
+* **Code & Docs**: [View SwipeRide Repository ➔](https://github.com/Alfin-Sebastian/swiperide)
 
 ---
 
 ### 🛠️ [UrbanServe — Local Service Management Platform](https://github.com/Alfin-Sebastian/UrbanServe)
+* **Repository**: [`github.com/Alfin-Sebastian/UrbanServe`](https://github.com/Alfin-Sebastian/UrbanServe)
 * **Stack**: PHP, MySQL, HTML5, CSS3, JavaScript, XAMPP
 * **Overview**: A localized community service booking platform connecting residents with neighborhood technicians (electrical, plumbing, repairs).
 * **Key Feature**: 3 distinct portal views (Customer, Service Provider, and Administrator) with relational MySQL tables for service listings, technician verification, and appointments.
-* **Architecture**: [Try the 3-Role Interactive Simulator on my Live Portfolio](https://alfin-sebastian.vercel.app/#deep-dive)
+* **Code & Docs**: [View UrbanServe Repository ➔](https://github.com/Alfin-Sebastian/UrbanServe)
 
 ---
 
 ### 🌐 [Personal Developer Portfolio & Cloud CMS](https://github.com/Alfin-Sebastian/portfolio)
+* **Repository**: [`github.com/Alfin-Sebastian/portfolio`](https://github.com/Alfin-Sebastian/portfolio)
 * **Stack**: React 18, Vite, Tailwind CSS, Firebase Realtime Database, Vercel
-* **Overview**: Cyber-dark developer portfolio with interactive simulators, particle constellation canvas, in-browser CLI terminal (`~/portfolio`), and real-time cloud data sync.
-* **Live Demo**: **[https://alfin-sebastian.vercel.app](https://alfin-sebastian.vercel.app)**
+* **Overview**: Cyber-dark developer portfolio with interactive architecture simulators, particle constellation canvas, in-browser CLI console (`~/portfolio`), and real-time cloud data sync.
+* **Live Deployment**: [alfin-sebastian.vercel.app](https://alfin-sebastian.vercel.app) • [View Portfolio Repository ➔](https://github.com/Alfin-Sebastian/portfolio)
 
 ---
 
